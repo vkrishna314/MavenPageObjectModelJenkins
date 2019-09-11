@@ -1,0 +1,51 @@
+{
+    "TestData": [
+        {
+            "TestCase_Name": "Tc_01_JobSeeker_Registration",
+            "FirstName": "Vamshi",
+            "LastName": "Krishna",
+            "Email": "vamshi.thodeti@gmail.com"
+            "ContactNumber": "7799327686"
+            "LandLineNumber": "040-6866666"
+            "Password": "#Perfect@2019"
+            "ConfirmPassword": "#Perfect@2019"
+            "DOB": "08/12/1990"
+            "LanguagesKnown": "Telugu, Hindi, English"
+            "CurrentIndustry": "Accounting/Finance"
+            "Role": "Account Manager"
+            "JobType": "Contract"
+            "CurrentDesignation": "Senior Manager"
+            "ExpYears": "7"
+            "ExpMonths": "2"
+            "ResumeHeadline": "7 Years of Exp in QA"
+            "CurrentCompany": "Cigniti"
+            "keySkills": "Automation Testing"
+            "CurrentLocation": "Hyderabad"
+            "PreferredLocation": "Hyderabad"
+            "Education": "BE/B.Tech"
+            "Institute": "NIIT"
+            "YearofPass": "2012"
+        }
+    ],
+    "GenericData": [
+        {
+            "Environment": "QA",
+            "URL": "https://www.talentzing.com/Jobseeker/JSRegistration.aspx"
+        },
+        {
+            "Environment": "Dev"
+        }
+    ]
+    
+    "FresherPage": [
+    	{
+    		"URL": "https://www.talentzing.com/FreshersCorner/FreshersRegister.aspx"
+    		"FirstName": "RAJ",
+            "LastName": "K",
+            "Email": "abc.xyz"
+            "ContactNo": "8106936335"
+            "Password": "passwordfortm"               
+    	}
+    
+    ]
+}
